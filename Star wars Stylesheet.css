@@ -1,0 +1,44 @@
+header{
+	background-color: orange;
+	margin-bottom: 40px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+}
+
+header h1{
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+header p{
+	margin-top: .5em;
+}
+
+.card{
+	border: 1px solid #cccccc;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.description{
+	
+	padding: 20px;
+}
+
+.pic{
+	width: 100%;
+}
+
+
+
+.description h3{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.description p{
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
